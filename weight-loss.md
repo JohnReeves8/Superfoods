@@ -15,12 +15,12 @@
 
 - walking, riding or swimming for 40 - 60 minutes
 
--- Your goal is to burn 3500 calories per week. That's 10,000 steps per day,
+ - Your goal is to burn 3500 calories per week. That's 10,000 steps per day,
    walking, for example. You burn about 100 calories for every mile walked.  You
    can find calculators online (like: http://www.myfitnesspal.com/exercise/lookup)
    for working out how many calories each type of exercise burns.
 
--- Swimming is one of the best because you burn extra calories in the cooler
+ - Swimming is one of the best because you burn extra calories in the cooler
    water just keeping your body warm. Besides, swimming is great for your
    lungs and figure.
 
@@ -42,25 +42,25 @@ and http://nutritiondata.self.com/
 **Low GI Restrictions:**
 
 - Avoid added sugar. That means, no:
--- soda drinks (like Coke, Pepsi, Sprite, etc)
--- fruit juice/drinks
--- any drinks with added sugar (like soy milk, mixed teas/coffees, etc)
--- packaged foods (check the labels -- most have added sugar; don't eat it)
---- This includes ALL packaged snacks, like Chips/crisps/tofu/flavoured nuts/etc
+ - soda drinks (like Coke, Pepsi, Sprite, etc)
+ - fruit juice/drinks
+ - any drinks with added sugar (like soy milk, mixed teas/coffees, etc)
+ - packaged foods (check the labels -- most have added sugar; don't eat it)
+  - This includes ALL packaged snacks, like Chips/crisps/tofu/flavoured nuts/etc
     Basically, avoid packaged foods.
 
 - Avoid processed foods. That means, no:
--- flour and flour products, like:
---- noodles, bread, cakes, pastries
--- white-rice
--- packaged meats (contain a lot of starch -- avoid starch)
+ - flour and flour products, like:
+  - noodles, bread, cakes, pastries
+ - white-rice
+ - packaged meats (contain a lot of starch -- avoid starch)
 
 - Avoid dairy. That means, no:
--- butter, milk, cheese (but unsweetened yoghurt is okay)
+ - butter, milk, cheese (but unsweetened yoghurt is okay)
 
 - Avoid heavy fats. That means, no:
--- fatty meats (lean meat is okay)
--- oily cooked dishes -- if it's swimming in oil, don't eat it.
+ - fatty meats (lean meat is okay)
+ - oily cooked dishes -- if it's swimming in oil, don't eat it.
 
 - Avoid alcohol
 
@@ -103,8 +103,8 @@ proper meals.
 
 **Two other alternatives (which you can research online) are:**
 
-* The Mediterranean diet
-* The mixed/balanced (DASH) diet
+- The Mediterranean diet
+- The mixed/balanced (DASH) diet
 
 
 ### Tasks:
@@ -118,8 +118,8 @@ proper meals.
   in the bottom panel.)
 
 - Find out what that many calories per day looks like:
--- How many calories on a typical plate of food?
--- How many in a handful of snacks (vegetables, fruits and nuts)?
+ - How many calories on a typical plate of food?
+ - How many in a handful of snacks (vegetables, fruits and nuts)?
 
 - Find out your real current weight today and write it in your diary.
 
